@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Dashboard - Aplikasi Pendaftaran Siswa</title>
+    <title>Dashboard - Aplikasi Pendaftaran </title>
 
     <!gambar title>
     <link rel= "icon" type="image/png" href = "../asset/img/planes.PNG">
@@ -38,7 +38,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Aplikasi Pendaftaran Siswa </div>
+                <div class="sidebar-brand-text mx-3">Aplikasi Pendaftaran  </div>
             </a>
 
             <!-- Heading -->
@@ -187,8 +187,7 @@
                      </div>
                      <div class="card-body">
                         <div class="text-center">
-                        <img src="../asset/img/orang.png" alt="fotoprofil"class="img-fluid 
-                        rounded-circle"style="width: 200px"> 
+                        <img src="../asset/img/orang.png" alt="fotoprofil"class="img-fluid "style="width: 200px"> 
                         </div>
                         <h5 class="text-center card-title">RIZKI WIDYA N</h5>
 
@@ -226,12 +225,113 @@
                            
                         </ul>
                     </div>
+                    </div>
+                    </div>
+                    
+                 <!--Hasil Penilaian-->
+                 <div class="col-md-6">
+
+                    
+                    <div class="card shadow mb-4">
+                      <div class="card-header py-3">
+                         <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
+                      </div>
+                    <div class="card-body">
+                       <div class="card text-center">
+                       <div class="card-body">
+                       <h5 class="card-title mb-3">Proses Penilaian</h5>
+                       <div class="col-auto">
+                       <div class="col-auto" style="font-size: 90px;">
+                        <i class="fas fa-spinner text-warning"></i>
+                        </div>
+                        
+                        <p class="card-text">Terimakasih Telah Melakukan Pendaftaran, Pengumuman Pada Tanggal :</p>
+                        <span class="badge badge-danger" style="font-size: 16px;">10 MARET 2021</span>
+                       </div>
+                      
+                       </div>
+                       
+                       
+                   
+                   
+                   <div class="card-footer">
+                   <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
+                   
+                   </div>
+                   </div>
+                   </div>
+                   </div>
+                 </div>
+                 
+                 
+                <!--Hasil Seleksi-->
+                <div class="col-md-6">
+
+                    
+                    <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                        <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
+                    </div>
+                    <div class="card-body">
+                    <div class="card text-center">
+                    <div class="card-body">
+                    <h5 class="card-title mb-3">ANDA LOLOS</h5>
+                    <div class="col-auto">
+                    <div class="col-auto" style="font-size: 90px;">
+                        <i class="fas fa-check-circle text-success"></i>
+                        </div>
+                        
+                        <p class="card-text">Selamat Anda Lolos Seleksi, Lakukan Daftar Ulang Pada Tanggal : </p>
+                        <span class="badge badge-danger" style="font-size: 16px;">19 MARET 2021</span>
+                    </div>
+                    
+                    </div>
+                    <div class="card-footer">
+                    <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
 
                     </div>
                     </div>
-                 </div>
-                 </div>
-                 <!-- /.container-fluid -->
+                    </div>
+                    
+
+              </div>
+              </div>
+              </div>
+              
+
+                <!--Hasil Seleksi-->
+                <div class="col-md-6">
+
+                    
+                    <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                        <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
+                    </div>
+                    <div class="card-body">
+                    <div class="card text-center">
+                    <div class="card-body">
+                    <h5 class="card-title mb-3">ANDA TIDAK LOLOS</h5>
+                    <div class="col-auto">
+                    <div class="col-auto" style="font-size: 90px;">
+                        <i class="fas fa-times text-danger"></i>
+                        </div>
+                        
+                        <p class="card-text">Anda Tidak Lolos, Terimakasih Telah Mengikuti Seleksi Dengan Baik</p>
+                    </div>
+                    
+                    </div>
+                    
+
+                    <div class="card-footer">
+                    <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
+
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+            </div>
+            <!-- /.container-fluid -->
 
                     </div>
                     <!-- End of Main Content -->
