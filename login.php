@@ -9,7 +9,7 @@
     <meta name="description" content="Pendaftaran siswa baru SMP NEGERI 2 SOKARAJA">
     <meta name="author" content="DriRi-Web-Development">
 
-    <title>Login Aplikasi Pendaftaran Siswa Baru</title>
+    <title>Login Aplikasi Pendaftaran Siswa</title>
     <!gambar title>
     <link rel= "icon" type="image/png" href = "asset/img/planes.PNG">
 
