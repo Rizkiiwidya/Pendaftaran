@@ -50,7 +50,7 @@
                                 <div class="p-5">
                                     <div class="text-center">
                                         <img src="asset/img/planes.PNG" alt="Logo Aplikasi" class="img-logo">
-                                        <h1 class="h4 text-gray-900 ">Login Aplikasi Pendaftaran Siswa</h1>
+                                        <h1 class="h4 text-gray-900 ">Login Aplikasi Pendaftaran Siswa Baru</h1>
                                         <h1 class="h4 text-gray-900 "><b>SMP NEGERI 2 SOKARAJA</b></h1>
                                     </div>
                                     <form class="user">
