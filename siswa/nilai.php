@@ -147,36 +147,31 @@
 
                 </nav>
                 <!-- End of Topbar -->
-
+ 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Dashboard</h1>
-
-                <div class="row">
+                    <h1 class="h3 mb-4 text-gray-800">EDIT NILAI</h1>
+                    <div class="row">
                     <div class="col-md-6">
 
                         <!-- Illustrations -->
                          <div class="card shadow mb-4">
                          <div class="card-header py-3">
-                         <h6 class="m-0 font-weight-bold text-primary">MASUKAN DATA NILAI</h6>
+                         <h6 class="m-0 font-weight-bold text-primary"> EDIT DATA NILAI</h6>
                          </div>
                          <div class="card-body">
-                         <p class="text-danger"> Masukan Nilai Anda Untuk Menyelesaikan Proses Pendaftaran ! </p>
+                         <p class="text-danger"> Ubah Jika Ada Kesalahan! </p>
                          <form class="user">
                                         <div class="form-group">
                                         <label for="ujian_un">Masukan Nilai Ujian Nasional</label>
-                                            <input type="text" name="nilai_un" class="form-control"
-                                                id="nilai_un"
-                                                placeholder="Masukan Nilai Ujian Nasional">
+                                            <input type="text" name="nilai_un" class="form-control" id="nilai_un" placeholder="Masukan Nilai Ujian Nasional">
                                         </div>
 
                                         <div class="form-group">
                                         <label for="ujian_us">Masukan Nilai Ujian Sekolah</label>
-                                            <input type="text" name="nilai_us" class="form-control"
-                                                id="nilai_us"
-                                                placeholder="Masukan Nilai Ujian Sekolah">
+                                            <input type="text" name="nilai_us" class="form-control" id="nilai_us" placeholder="Masukan Nilai Ujian Sekolah">
                                         </div>
                                         <hr>
                                         <div class="text-right">
@@ -187,164 +182,10 @@
                                     </div>
                                     </div>
                     </div>
-                    <div class="col-md-6">
+                    </div>
 
-                     <!-- Illustrations -->
-                     <div class="card shadow mb-4">
-                     <div class="card-header py-3">
-                     <h6 class="m-0 font-weight-bold text-primary">DATA DIRI</h6>
-                     </div>
-                     <div class="card-body">
-                        <div class="text-center">
-                        <img src="../asset/img/orang.png" alt="fotoprofil" class="img-fluid rounded-circlr"
-                        alt="menunggu" style="width: 200px;"> 
-                        </div>
-                        <br>
-                        <div class="text-right">
-                          <a href="editprofil.php" class="btn btn-warning btn-sm">Edit Profil</a>
-                        </div>
 
-                        <h5 class="text-center card-title">RIZKI WIDYA N</h5>
 
-                        <ul class="list-group">
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Tempat, Tanggal Lahir</h6>
-                            <small>Cilacap, 19 Mei 1999</small>
-                            </li>
-                        
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Jenis Kelamin</h6>
-                            <small>Laki Laki</small>
-                            </li>
-                        
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Agama</h6>
-                            <small>Islam</small>
-                            </li>
-                        
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Alamat</h6>
-                            <small>Sindangbarang, Karangpucung - Cilacap</small>
-                            </li>
-                        
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Email</h6>
-                            <small>erween97@gmail.com</small>
-                            </li>
-
-                            <li class="list-group-item">
-                            <h6 class="mb-0" style="color: black;">Telepon</h6>
-                            <small>085787123000</small>
-                            </li>
-
-                           
-                        </ul>
-                    </div>
-                    </div>
-                    </div>
-                    
-                 <!--Hasil Penilaian-->
-                 <div class="col-md-6">
-
-                    
-                    <div class="card shadow mb-4">
-                      <div class="card-header py-3">
-                         <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
-                      </div>
-                    <div class="card-body">
-                       <div class="card text-center">
-                       <div class="card-body">
-                       <h5 class="card-title mb-3">Proses Penilaian</h5>
-                       <div class="col-auto">
-                       <div class="col-auto" style="font-size: 90px;">
-                        <i class="fas fa-spinner text-warning"></i>
-                        </div>
-                        
-                        <p class="card-text">Terimakasih Telah Melakukan Pendaftaran, Pengumuman Pada Tanggal :</p>
-                        <span class="badge badge-danger" style="font-size: 16px;">10 MARET 2021</span>
-                       </div>
-                      
-                       </div>
-                       
-                       
-                   
-                   
-                   <div class="card-footer">
-                   <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
-                   
-                   </div>
-                   </div>
-                   </div>
-                   </div>
-                 </div>
-                 
-                 
-                <!--Hasil Seleksi-->
-                <div class="col-md-6">
-
-                    
-                    <div class="card shadow mb-4">
-                    <div class="card-header py-3">
-                        <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
-                    </div>
-                    <div class="card-body">
-                    <div class="card text-center">
-                    <div class="card-body">
-                    <h5 class="card-title mb-3">ANDA LOLOS</h5>
-                    <div class="col-auto">
-                    <div class="col-auto" style="font-size: 90px;">
-                        <i class="fas fa-check-circle text-success"></i>
-                        </div>
-                        
-                        <p class="card-text">Selamat Anda Lolos Seleksi, Lakukan Daftar Ulang Pada Tanggal : </p>
-                        <span class="badge badge-danger" style="font-size: 16px;">19 MARET 2021</span>
-                    </div>
-                    
-                    </div>
-                    <div class="card-footer">
-                    <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
-
-                    </div>
-                    </div>
-                    </div>
-                    
-
-              </div>
-              </div>
-              </div>
-              
-
-                <!--Hasil Seleksi-->
-                <div class="col-md-6">
-
-                    
-                    <div class="card shadow mb-4">
-                    <div class="card-header py-3">
-                        <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
-                    </div>
-                    <div class="card-body">
-                    <div class="card text-center">
-                    <div class="card-body">
-                    <h5 class="card-title mb-3">ANDA TIDAK LOLOS</h5>
-                    <div class="col-auto">
-                    <div class="col-auto" style="font-size: 90px;">
-                        <i class="fas fa-times text-danger"></i>
-                        </div>
-                        
-                        <p class="card-text">Anda Tidak Lolos, Terimakasih Telah Mengikuti Seleksi Dengan Baik</p>
-                    </div>
-                    
-                    </div>
-                    
-
-                    <div class="card-footer">
-                    <marquee style="margin-bottom: -5px;">SMP NEGERI 2 SOKARAJA</marquee>
-
-                    </div>
-                    </div>
-                    </div>
-                    </div>
-                    </div>
             </div>
             <!-- /.container-fluid -->
 
