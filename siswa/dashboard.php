@@ -189,24 +189,24 @@
                     </div>
                     <div class="col-md-6">
 
-                     <!-- Illustrations -->
-                     <div class="card shadow mb-4">
-                     <div class="card-header py-3">
-                     <h6 class="m-0 font-weight-bold text-primary">DATA DIRI</h6>
-                     </div>
-                     <div class="card-body">
-                        <div class="text-center">
-                        <img src="../asset/img/orang.png" alt="fotoprofil" class="img-fluid rounded-circlr"
-                        alt="menunggu" style="width: 200px;"> 
-                        </div>
-                        <br>
-                        <div class="text-right">
-                          <a href="editprofil.php" class="btn btn-warning btn-sm">Edit Profil</a>
-                        </div>
+                                <!-- Illustrations -->
+                                <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                <h6 class="m-0 font-weight-bold text-primary">DATA DIRI</h6>
+                                </div>
+                                <div class="card-body">
+                                <div class="text-center">
+                                <img src="../asset/img/orang.png" alt="fotoprofil" class="img-fluid rounded-circlr"
+                                alt="menunggu" style="width: 200px;"> 
+                                </div>
+                                <br>
+                                <div class="text-right">
+                                <a href="editprofil.php" class="btn btn-warning btn-sm">Edit Profil</a>
+                                </div>
 
-                        <h5 class="text-center card-title">RIZKI WIDYA N</h5>
+                                <h5 class="text-center card-title">RIZKI WIDYA N</h5>
 
-                        <ul class="list-group">
+                             <ul class="list-group">
                             <li class="list-group-item">
                             <h6 class="mb-0" style="color: black;">Tempat, Tanggal Lahir</h6>
                             <small>Cilacap, 19 Mei 1999</small>
@@ -245,8 +245,6 @@
                     
                  <!--Hasil Penilaian-->
                  <div class="col-md-6">
-
-                    
                     <div class="card shadow mb-4">
                       <div class="card-header py-3">
                          <h6 class="m-0 font-weight-bold text-primary">PENGUMUMAN HASIL SELEKSI</h6>
