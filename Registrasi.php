@@ -52,7 +52,7 @@
                                         <h1 class="h4 text-gray-900 ">Registrasi Siswa Baru</h1>
                                         <h1 class="h4 text-gray-900 mb-4"><b>SMP NEGERI 2 SOKARAJA</b></h1>
                                     </div>
-                                    <form class="user">
+                                    <form class="user" action="registrasi_control.php" method="POST">
                                         <div class="form-group">
                                         <label for="nama">Nama Lengkap</label>
                                             <input type="text" name="nama" class="form-control"
@@ -133,9 +133,9 @@
 
                                         
 
-                                        <a href="siswa/dashboard.php" class="btn btn-primary btn-user btn-block">
+                                        <button name="btn_registrasi" value="simpan" class="btn btn-primary btn-user btn-block">
                                             Registrasi
-                                        </a>
+                                        </button>
                                     </form>
                                     <hr>
                                     <div class="text-center">

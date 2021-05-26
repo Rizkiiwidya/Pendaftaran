@@ -52,6 +52,18 @@
                                         <img src="asset/img/planes.PNG" alt="Logo Aplikasi" class="img-logo">
                                         <h1 class="h4 text-gray-900 ">Login Aplikasi Pendaftaran Siswa</h1>
                                         <h1 class="h4 text-gray-900 "><b>SMP NEGERI 2 SOKARAJA</b></h1>
+
+                                        <?php
+                                        session_start();  
+                                        if(isset($_SESSION['pesan_registrasi'])) { 
+                                            //Menampilkan script html didalam if ?>
+                                
+                                        <div class="alert alert-success"> 
+                                            <?= $_SESSION['pesan_registrasi'] ?>
+                                        </div>
+
+                                        <?php } ?>
+
                                     </div>
                                     <form class="user">
                                         <div class="form-group">
