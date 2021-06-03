@@ -55,15 +55,17 @@
 
                                         <?php
                                         session_start();  
-                                        if(isset($_SESSION['pesan_registrasi'])) { 
-                                            //Menampilkan script html didalam if ?>
+                                        if(isset($_SESSION['pesan_registrasi'])) {  ?>
                                 
                                         <div class="alert alert-success"> 
                                             <?= $_SESSION['pesan_registrasi'] ?>
                                         </div>
 
-                                        <?php } ?>
+                                        <?php } 
+                                        session_destroy();
+                                        ?>
 
+                                      
                                     </div>
                                     <form class="user">
                                         <div class="form-group">
